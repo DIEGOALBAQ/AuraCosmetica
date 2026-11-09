@@ -1,0 +1,22 @@
+<resources>
+    <!-- Sistema Aura — lujo editorial. Paleta completa espejo de ui/theme/Color.kt -->
+    <color name="aura_marfil">#F7F1EA</color>
+    <color name="aura_marfil_oscuro">#9B6123</color>
+    <color name="aura_blanco">#FFFFFF</color>
+    <color name="aura_ciruela">#6E2F50</color>
+    <color name="aura_ciruela_oscuro">#57243D</color>
+    <color name="aura_champagne">#C9A96A</color>
+    <color name="aura_champagne_suave">#E9D9BC</color>
+    <color name="aura_champagne_oscuro">#8A6A2F</color>
+    <color name="aura_blush">#F1DFD8</color>
+    <color name="aura_tinta">#3B2532</color>
+    <color name="aura_gris_calido">#9A8791</color>
+    <color name="aura_dorado">#D9A441</color>
+    <color name="aura_verde_exito">#5F8A5A</color>
+    <color name="aura_rojo_suave">#C05B5B</color>
+    <color name="aura_borde">#E7DACE</color>
+    <color name="aura_azul_suave">#E3E7F2</color>
+    <color name="aura_azul_oscuro">#4A5A8A</color>
+    <color name="aura_verde_fondo">#E2EFE0</color>
+    <color name="aura_noche">#241821</color>
+</resources>

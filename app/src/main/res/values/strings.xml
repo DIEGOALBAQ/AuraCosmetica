@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aura Cosmética</string>
+
+    <!-- Transversal -->
+    <string name="splash_tagline">Cosmética · Belleza consciente</string>
+    <string name="biometria_titulo">Ingreso con huella</string>
+    <string name="recuperar_titulo">Recuperación de acceso</string>
+    <string name="recuperar_enviado">Enlace enviado</string>
+    <string name="accion_volver">Volver</string>
+    <string name="accion_guardar">Guardar</string>
+</resources>
